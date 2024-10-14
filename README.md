@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Partha Dey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student of 2nd year CSE.</h3>
 <h1>About Me</h1>
 <div>
 <img align="right" alt="Coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
