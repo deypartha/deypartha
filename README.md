@@ -13,6 +13,8 @@
 - 📫 How to reach me **deypartha222004@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+
+-  my first deployed desktop website "https://dhaba-food-deypa.netlify.app/" which is totally based on html, css, javascript
 </div>
 <div>
 <h3 align="left">Connect with me:</h3>
