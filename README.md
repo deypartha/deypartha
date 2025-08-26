@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **JS**
 
+- 👩🏻‍💼 My Portfolio  -- https://parthadey-portfolio.netlify.app/
+
 - 📫 How to reach me **deypartha222004@gmail.com**
 
 - ⚡ Fun fact **I am funny**
