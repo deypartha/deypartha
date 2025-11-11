@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JS**
 
-- 👨‍💼 My Portfolio  -- https://deypartha2004.netlify.app/
+- 👨‍💼 My Portfolio  -- https://partha2004.netlify.app/        // https://deypartha2004.netlify.app/
 
 - 📫 How to reach me **deypartha222004@gmail.com**
 
